@@ -12,6 +12,17 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.pop:hover{
+  transform: rotate(-10deg) ;
+  background: #000;
+  
+
+}
+
+.pop {
+  /* transform: rotate(45deg); Equal to rotateZ(45deg) */
+  /* background-color: pink; */
+}
 
 .App-header {
   background-color: #282c34;

@@ -6,7 +6,7 @@ import WithSubnavigation from './N';
 const Navbar = () => {
   return (
     <Stack>
-      <Heading>Gautam</Heading>
+      {/* <Heading>Gautam</Heading> */}
       <WithSubnavigation/>
     </Stack>
   )
